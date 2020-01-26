@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Folder Include="NewFolder\" />
+    <Folder Include="Scenario5\Output\" />
   </ItemGroup>
 
 </Project>
