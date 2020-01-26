@@ -15,7 +15,7 @@ namespace AutomationTest___Examples
         [TestFixture]
         public class ShoppingPageTest : SeleniumTest
         {
-            [TestCase(20, 30)]
+            [TestCase(16, 20)]
             public void PriceSelectionSliderShowsItems(int min, int max)
             {
                 LaunchProductPage();
