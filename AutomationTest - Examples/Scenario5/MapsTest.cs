@@ -29,7 +29,7 @@ namespace AutomationTest___Examples.Scenario5
                 .Release()
                 .Perform();
 
-            //Have to do it twice not sure why?
+            //Have to do it twice not sure why..
             actions.MoveToElement(map)
                 .ClickAndHold()
                 .MoveByOffset(0, 500)

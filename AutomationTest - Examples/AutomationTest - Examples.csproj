@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="NewFolder\" />
+    <Folder Include="BugFolder\" />
     <Folder Include="Scenario5\Output\" />
   </ItemGroup>
 

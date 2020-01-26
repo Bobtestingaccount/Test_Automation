@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace AutomationTest___Examples
+namespace AutomationTest___Examples.Scenario3
 {
     public class SliderTests
     {

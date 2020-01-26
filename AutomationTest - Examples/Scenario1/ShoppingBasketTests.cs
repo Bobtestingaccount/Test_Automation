@@ -8,7 +8,7 @@ using System.Threading;
 using OpenQA.Selenium.Support.UI;
 using Shouldly;
 
-namespace AutomationTest___Examples
+namespace AutomationTest___Examples.Scenario1
 {
     [TestFixture]
     public class ShoppingBasketTests : SeleniumTest

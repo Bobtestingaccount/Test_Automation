@@ -7,7 +7,7 @@ using OpenQA.Selenium.Interactions;
 using Shouldly;
 using System.Linq;
 
-namespace AutomationTest___Examples
+namespace AutomationTest___Examples.Scenario2
 {
     class DressesTests
     {
