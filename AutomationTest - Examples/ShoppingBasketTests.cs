@@ -40,6 +40,7 @@ namespace AutomationTest___Examples
 
         private void AddProductToBasket()
         {
+            driver.Url = "http://automationpractice.com/index.php";
             driver.Url = "http://automationpractice.com/index.php?controller=cart&add=1&id_product=1&token=e817bb0705dd58da8db074c69f729fd8";
         }
     }
